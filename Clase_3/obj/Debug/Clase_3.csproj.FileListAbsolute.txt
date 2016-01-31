@@ -1,0 +1,9 @@
+D:\Progra III\Clase_3\Clase_3\bin\Debug\Clase_3.exe.config
+D:\Progra III\Clase_3\Clase_3\obj\Debug\Clase_3.csprojResolveAssemblyReference.cache
+D:\Progra III\Clase_3\Clase_3\obj\Debug\Clase_3.Form1.resources
+D:\Progra III\Clase_3\Clase_3\obj\Debug\Clase_3.Properties.Resources.resources
+D:\Progra III\Clase_3\Clase_3\obj\Debug\Clase_3.csproj.GenerateResource.Cache
+D:\Progra III\Clase_3\Clase_3\bin\Debug\Clase_3.exe
+D:\Progra III\Clase_3\Clase_3\bin\Debug\Clase_3.pdb
+D:\Progra III\Clase_3\Clase_3\obj\Debug\Clase_3.exe
+D:\Progra III\Clase_3\Clase_3\obj\Debug\Clase_3.pdb
